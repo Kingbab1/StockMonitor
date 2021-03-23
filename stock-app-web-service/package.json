@@ -1,0 +1,14 @@
+{
+  "name": "stock-app-web-service",
+  "version": "1.0.0",
+  "description": "Stock Web Swervice\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babken Nurijanyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
